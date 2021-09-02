@@ -1,3 +1,7 @@
+# Introduction
+This is clone of Twitter-App develop by [Vipul tiwari](https://www.linkedin.com/in/vipultiwari/), Using [ React](https://reactjs.org/docs/getting-started.html) , [Firebase](https://firebase.google.com/docs)
+, [Material-Ui](https://material-ui.com/). It has create post with text and image.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
